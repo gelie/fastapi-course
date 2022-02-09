@@ -6,4 +6,7 @@ sqlalchemy
 psycopg2
 
 # for env vars
-python-dotenv 
+python-dotenv
+
+# for password hashing
+passlib[bcrypt]
